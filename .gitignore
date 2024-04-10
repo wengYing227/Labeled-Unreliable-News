@@ -1,3 +1,6 @@
+.idea/
+.DS_Store
+glove/
 /raw_data
 /glove.6B
 
